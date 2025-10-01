@@ -1,7 +1,5 @@
 # 🌐 Personal Portfolio Website
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=This is my Personal Portfolio Website;Built with HTML, CSS AND JS)](https://git.io/typing-svg)
-
 A fully responsive and interactive **portfolio website** showcasing my skills, projects, certifications, and achievements.  
 Built with **HTML, CSS, and JavaScript**, the portfolio is designed with smooth animations, a modern gradient UI, and is mobile-friendly.
 
